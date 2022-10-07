@@ -3,7 +3,8 @@ import Navbar from './Navbar'
 
 function Header() {
   return (
-<div className='bg-[#0D0D2B] mx-[0] my-[0]'>
+<div className='bg-[#0D0D2B] mx-[0] mt-[0px]'>
+ 
   <Navbar />
 
   <div className='grid lg:grid-cols-2'>

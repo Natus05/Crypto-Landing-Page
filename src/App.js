@@ -5,6 +5,7 @@ import Check from './components/Check'
 import Calculate from './components/Calculate'
 import Cryptocurrencies from './components/Cryptocurrencies'
 import Startming from './components/Startming'
+import Footer from './components/Footer'
 
 
 
@@ -12,7 +13,7 @@ import Startming from './components/Startming'
 function App() {
   return (
     
- <div className='h-[6000px] bg-[#0D0D2B]'>
+ <div className='bg-[#0D0D2B]'>
       
    <Header />
    <Crappo />
@@ -20,6 +21,7 @@ function App() {
    <Calculate />
    <Cryptocurrencies />
    <Startming />
+   <Footer />
  </div>
     
   )
