@@ -13,7 +13,7 @@ import Footer from './components/Footer'
 function App() {
   return (
     
- <div className='bg-[#0D0D2B]'>
+ <div className='bg-[#0D0D2B] lg:mt-[0px]'>
       
    <Header />
    <Crappo />
